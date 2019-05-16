@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_button">48dp</dimen>
+    <dimen name="margin_16dp">16dp</dimen>
+    <dimen name="stroke_size">3dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="autoresize_min_width">200dp</dimen>
+    <dimen name="autoresize_max_text_size">220sp</dimen>
+    <dimen name="autoresize_min_text_size">16sp</dimen>
+</resources>
